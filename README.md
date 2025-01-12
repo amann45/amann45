@@ -1,4 +1,4 @@
-## Hi there its Me Aman👋
+## Hi its Me Aman👋
 ![image alt](https://github.com/amann45/amann45/blob/e7889397303c7f50f16e4ec90abfe17887d95764/my.png)
 <!--
 **amann45/amann45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
