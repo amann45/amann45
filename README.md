@@ -1,5 +1,5 @@
 ## Hi its Me Aman👋
-![image alt](https://github.com/amann45/amann45/blob/e7889397303c7f50f16e4ec90abfe17887d95764/my.png)
+![image alt](https://github.com/amann45/amann45/blob/ca25d4bb02d514a2b0168c31f4d4ad27bdb2a85d/my.png)
 <!--
 **amann45/amann45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
