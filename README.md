@@ -1,3 +1,4 @@
+![logo](https://github.com/amann45/amann45/blob/main/github.png)
 <h1 align="center">Hi 👋, It's Aman</h1>
 <h3 align="center">I am pursuing a bachelor degree in Computer Engineering 🎓 from TU, Nepal. passionate about exploring news ideas, with a love for coding, problem-solving, and always eager to learn new technologies and apply them to real-world challenges."</h3>
 
