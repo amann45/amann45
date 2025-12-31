@@ -1,7 +1,6 @@
-![logo](https://github.com/amann45/amann45/blob/main/github.png)
-###
+<h1 align="left">hey there 👋</h1>
 
-<h1 align="center">hey there 👋</h1>
+![logo](https://github.com/amann45/amann45/blob/main/github.png)
 
 ###
 
