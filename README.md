@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">Currently, I am pursuing a bachelor degree in Computer Engineering 🎓 from TU, Nepal.</h3>
+<h3 align="center">Pursuing a bachelor degree in Computer Engineering 🎓 from TU, Nepal. passionate about exploring news ideas, with a love for coding, problem-solving, and always eager to learn new technologies and apply them to real-world challenges."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amann45&label=Profile%20views&color=0e75b6&style=flat" alt="amann45" /> </p>
 
