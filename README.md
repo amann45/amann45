@@ -1,4 +1,8 @@
+###
+
 <h1 align="left">hey there 👋</h1>
+
+###
 
 ![logo](https://github.com/amann45/amann45/blob/main/github.png)
 
@@ -59,3 +63,15 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amann45.amann45&"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amann45&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
