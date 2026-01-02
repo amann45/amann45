@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Aman from Siraha, Mirchaiya. I am pursuing a bachelor degree in Computer Engineering 🎓 from TU, Nepal. passionate about exploring news ideas, with a love for coding, problem-solving, and always eager to learn new technologies and apply them to real-world challenges.<br><br>- 📚 I'm currently learning Web Programming and Python.<br>- ⚡ In my free time, i use participate in various sports.</p>
+<p align="left">it's Aman here's from Siraha, Mirchaiya. I am pursuing a bachelor degree in Computer Engineering 🎓 from TU, Nepal. passionate about exploring news ideas, with a love for coding, problem-solving, and always eager to learn new technologies and apply them to real-world challenges.<br><br>- 📚 I'm currently learning Web Programming and Python.<br>- ⚡ In my free time, i use participate in various sports.</p>
 
 ###
 
