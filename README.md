@@ -56,9 +56,3 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-## 📊 GitHub Stats:
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=amann45&theme=dark&hide_border=false"><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amann45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</div>
