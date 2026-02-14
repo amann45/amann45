@@ -4,7 +4,7 @@
 
 ###
 
-![logo](https://github.com/amann45/amann45/blob/main/github.png)
+![logo](https://github.com/amann45/amann45/blob/c5392a06c1b525adc5a71c4e98dc6ad4ca2d06d1/cover.png)
 
 ###
 
