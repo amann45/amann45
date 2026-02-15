@@ -1,6 +1,6 @@
 ###
 
-<h1 align="left">hey there 👋</h1>
+<h1 align="left">hey there👋🧿</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hello i am Aman. I am pursuing a bachelor degree in Computer Engineering 🎓 from TU, Nepal. passionate about exploring news ideas, with a love for coding, problem-solving, and always eager to learn new technologies and apply them to real-world challenges.<br><br>- 📚 I'm currently learning Web Programming and Python.<br>- ⚡ In my free time, i used to participate in various sports.</p>
+<p align="left">Hii👋, i'm Aman. I am pursuing a bachelor degree in Computer Engineering 🎓 from TU, Nepal. passionate about exploring news ideas, with a love for coding, problem-solving, and always eager to learn new technologies and apply them to real-world challenges.<br><br>- 📚 I'm currently learning Web Programming and Python.<br>- ⚡ In my free time, i used to participate in various sports.</p>
 
 ###
 
