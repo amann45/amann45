@@ -1,55 +1,79 @@
-###
+# 👋 Hi, I'm Aman Kumar Ray!
+<p align="center">
+<b>“Behind every successful machine, there is a passionate engineer.”</b>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Exploring+AI+•+ML+•+Data+Science+•+Tech" alt="Typing SVG" />
+  
+---
 
-<h1 align="left">hey there👋</h1>
+## 🌍 About Me
 
-###
+- 🎓 Pursuing a Bachelor's in **Computer Engineering** at ACEM
+- ☁️ Exploring **AI, Machine Learning, Deep Learning, NLP & MLOps**
+- 🧠 Currently working on **Machine Learning** projects
+- 🎯 Goal: use technology for building a smarter future
+- 😄 Fun Fact: most used engineering skills is **ctrl+c & ctrl+v**
 
-![logo](github.jpg)
+## 🛠️ Tech Stack
 
-###
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Languages</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+     <td align="center" width="200"><b>Frontend</b><br><br>
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+    </td>
+    <td align="center" width="200"><b>Backend</b><br><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+     </tr>
+  <tr>
+    <td align="center" width="200"><b>ML & Data Analysis</b><br><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+    </td>
+    <td align="center"><b>Databases</b><br><br>
+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+    </td>
+    <td align="center"><b>DevOps & Tools</b><br><br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-<h2 align="left">👩‍💻 About Me</h2>
-
-###
-
-<p align="left">Hii👋, i'm Aman. I am pursuing a bachelor degree in Computer Engineering 🎓 from TU, Nepal. passionate about exploring news ideas, with a love for coding, problem-solving, and always eager to learn new technologies and apply them to real-world challenges.<br><br>- 📚 I'm currently learning Web Programming and Python.<br>- ⚡ In my free time, i used to participate in various sports.</p>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
+## 🤝 Let's Connect
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+| Platform | Link |
+|:----:|:----:|
+| LinkedIn | [Aman Kumar Ray](https://linkedin.com/in/amann45) |
+| Mail | [amankr0794@gmail.com](mailto:amankr0794@gmail.com) |
+| Telegram | [Aman](https://t.me/theaman45) |
+
 </div>
 
-###
+<br>
+
 <div align="center">
-  <a href="https://linkedin.com/in/amann45" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/theaman45" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="mailto:amankr0794@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+> *Open to collaborations and learning opportunities.*
+>
+> Connect on LinkedIn
 </div>
