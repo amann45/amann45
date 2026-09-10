@@ -65,7 +65,7 @@
 |:----:|:----:|
 | LinkedIn | [Aman Kumar Ray](https://linkedin.com/in/amann45) |
 | Mail | [amankr0794@gmail.com](mailto:amankr0794@gmail.com) |
-| Telegram | [Aman](https://t.me/theaman45) |
+| Telegram | [Aman](https://t.me/aman_920) |
 
 </div>
 
